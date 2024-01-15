@@ -10,3 +10,5 @@ An interactive dashboard created with the following Key Performance Indicators:
 6)	Current year casualties by area/location & by day/night
 7)	Total casualties and total accidents by locations
 
+DASHBOARD OVERVIEW 
+![DASHBOARD](https://github.com/Ethann93/UK-ROAD-ACCIDENT-ANALYSIS-Dashboard-/assets/133777296/f17fb5ad-a4a1-4a9d-a4e1-5cb8df3c5be8)
